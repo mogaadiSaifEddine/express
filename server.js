@@ -1,5 +1,4 @@
 var express=require('express')
-var lodash=require('lodash')
 const app=express()
 const port = 5000;
 
